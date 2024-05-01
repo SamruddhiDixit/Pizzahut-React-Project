@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.bgimage
+{
+  background-image: url('/public/images/hero-bg.jpg');
+  background-size: cover;
+  background-position: right;  
+  /* background-attachment: fixed; */
+}
+.image1:hover{
+  transform: scale(1.1,1.1);
+  overflow: hidden;
+  transition: 2s;
+}
+.image2:hover{
+  transform: scale(1.1,1.1);
+  overflow: hidden;
+  transition: 2s;
+}
+a:link{
+  text-decoration: none;
+}
